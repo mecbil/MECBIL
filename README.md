@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🌱 I'm currently a student at "OpenClassRooms" as an "Application Developer - PHP / Symfony" ...
+- - 💬 Ask me about HTML, CSS
+- - ⚡ Fun fact: ...one for all, and all coders 
+
+[Technologies](#technologies)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mecbil&theme=radical&hide_langs_below=8)
+![](https://github-readme-stats.vercel.app/api?username=mecbil&show_icons=true&theme=radical&count_private=true)
+
 <!--
 **mecbil/MECBIL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
