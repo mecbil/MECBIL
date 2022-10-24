@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I'm currently a student at "OpenClassRooms" as an "Application Developer - PHP / Symfony" ...
+- 🌱 I am currently looking for a job as "Application Developer - PHP / Symfony" ...
 - - 💬 Ask me about HTML, CSS
 - - ⚡ Fun fact: ...one for all, and all coders 
 
