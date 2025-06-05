@@ -8,7 +8,7 @@
 ---
 
 ### Technologies I’m comfortable with  
-PHP | Symfony | Twig | HTML | CSS | Bootstrap | RedStem
+PHP | Symfony | Twig | HTML | CSS | Bootstrap
 
 ---
 
